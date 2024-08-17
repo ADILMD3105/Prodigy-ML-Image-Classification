@@ -1,4 +1,5 @@
-PRODIGY_ML_03
+PRODIGY_ML
+
 Image Classification: Cats vs. Dogs SVM Project
 Overview: This repository features the implementation of a Support Vector Machine (SVM) model for classifying images of cats and dogs from the Kaggle dataset. The project explores the application of SVMs in handling high-dimensional image data, emphasizing feature extraction, model training, evaluation, and parameter optimization.
 
