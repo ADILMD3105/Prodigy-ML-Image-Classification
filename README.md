@@ -36,4 +36,5 @@ Python: Programming language for data analysis and model implementation.
 Scikit-Learn: Machine learning library for building and evaluating SVM models.
 Matplotlib and Seaborn: Libraries for data visualization.
 Jupyter Notebook: Interactive platform for running Python code and documenting the project.
+
 Author: Mohammmed Adil
